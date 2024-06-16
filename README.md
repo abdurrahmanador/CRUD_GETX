@@ -1,2 +1,2 @@
-# CRUD_GETX
-A Simple CRUD app .
+# Simple_GETX_application_for_learning_GETx_API
+Check Master Branch ....
