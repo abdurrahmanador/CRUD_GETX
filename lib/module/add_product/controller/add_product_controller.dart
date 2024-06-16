@@ -9,7 +9,7 @@ import '../model/add_product_data.dart';
 class AddProdcutController extends GetxController {
 
   var productList = <Data>[].obs;
-  RxBool isLoading = true.obs;
+  var isLoading = true.obs;
 
   TextEditingController imgTEController = TextEditingController();
   TextEditingController productCodeTEController = TextEditingController();
